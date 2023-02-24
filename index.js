@@ -28,9 +28,9 @@ fs.readdir('./input', (error, files) => {
                     ws.getRow(i).getCell('D').value = 'Stop Duration'
                     ws.getRow(i).getCell('E').value = '10 (min)'
                     ws.getRow(i).getCell('G').value = 'Over Speed on Highway'
-                    ws.getRow(i).getCell('H').value = '63 (km)'
+                    ws.getRow(i).getCell('H').value = '65 (km)'
                     ws.getRow(i).getCell('J').value = 'Over Speed on Non Highway'
-                    ws.getRow(i).getCell('K').value = '63 (km)'
+                    ws.getRow(i).getCell('K').value = '65 (km)'
 
                 }
                 if(i === rowCount + 5){
