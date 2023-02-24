@@ -1,0 +1,17 @@
+{
+  "name": "watt_wah_excel_summary_report_legends",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "pkg": "^5.8.0"
+  }
+}
