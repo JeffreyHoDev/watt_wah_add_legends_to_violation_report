@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
     "exceljs": "^4.3.0",
+    "html-pdf": "^3.0.1",
     "pkg": "^5.8.0"
   }
 }
